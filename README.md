@@ -1,4 +1,4 @@
-# AviationRAG
+# Aviation Safety
 
 
 This project aims to build a RAG-based LLM assistant for airline pilots and members of technical crew.
