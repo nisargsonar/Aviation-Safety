@@ -25,7 +25,7 @@ This repository demosntrates the RAG pipeline with GPT 3.5-Turbo, along with two
 ### Steps to run code:
 
 
-1. Download the PDF files from the [Drive](https://drive.google.com/drive/folders/1zKwDvTcqjksVpf6BcFKIgpq21fbXR7cU?usp=sharing) and store on local
+1. Download the PDF files and store on local
     
 
 2. Run requirements.txt:
